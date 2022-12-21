@@ -2,7 +2,7 @@
 
 Description
 
-## Category :
+## Collection :
 
   * [Vizhigalin Aruginil Vaanam](vizhigalin-aruginil-vaanam.md)
 
